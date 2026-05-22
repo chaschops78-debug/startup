@@ -1,2 +1,2 @@
 # startup
-startup claude skills
+claude skills and prompts to build my company idea
